@@ -19,6 +19,7 @@ Point-Free’s The Composable Architecture uses Apple's Combine framework as the
 
   s.dependency 'CasePaths'
   s.dependency 'Overture'
+  s.dependency 'CombineShedulers'
   s.dependency 'RxSwift', '~> 5.1.1'
   s.dependency 'RxRelay'
   s.xcconfig = { 'ENABLE_BITCODE' => 'NO' }
